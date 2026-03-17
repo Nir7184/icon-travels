@@ -1,0 +1,18 @@
+{
+  "name": "travel-auth-functions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "engines": {
+    "node": "18"
+  },
+  "scripts": {
+    "lint": "echo 'No linting configured'"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "firebase-admin": "^11.10.1",
+    "firebase-functions": "^7.0.5",
+    "node-fetch": "^2.7.0",
+    "nodemailer": "^6.10.1"
+  }
+}
